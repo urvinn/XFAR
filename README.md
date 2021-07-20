@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Xfar Developer 👋
-<img align="center" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB74VGjdUkLu9mL_JvdlWuUqxjWybH7ZKKSrrdOKtePvLEZKVXdEqWXHLNYwgaYieCdfI&usqp=CAU"/>
+<img align="center" height="200" src="https://telegra.ph/file/bfe25712922258742c834.jpg"/>
 ## I'm a Developer and Software Engineer!
 - 🌱  I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other content creators
